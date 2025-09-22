@@ -1,1 +1,1 @@
-# Caso-de-estudio-Un-asteroide-sigue-una-rbita-el-ptica
+# Caso-de-estudio-Un-asteroide-sigue-una-Órbita-elíptica
