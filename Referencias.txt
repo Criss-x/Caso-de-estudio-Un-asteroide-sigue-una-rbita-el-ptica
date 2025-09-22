@@ -1,0 +1,83 @@
+1. Xamrayeva, Z. U., & Xaydarova, S. S. (2024). Application of Kepler's laws in physics. The American Journal of Applied Sciences, 6(10), 30-33. 
+https://doi.org/10.37547/tajas/Volume06Issue10-07
+
+2. World Scientific Publishing. (2024). Kepler's laws of planetary motion. Mathematical Models and Methods in Applied Sciences. Retrieved from
+https://www.worldscientific.com/doi/abs/10.1142/9789812709134_0001
+
+3. Nugent, C. R., Andersen, K. P., Bauer, J. M., Jensen, C. T., Kristiansen, L. K., Hansen, C. P., Nielsen, M. M., & Vestergård, C. F. (2025). Placing the Near-Earth object impact probability in context. arXiv preprint, arXiv:2508.02418.
+https://doi.org/10.48550/arXiv.2508.02418
+
+4. Tan, C. W., Sabapathy, T. R., & Chua, B. L. (2025). Stability of projected elliptical orbit formation for geo-location of radio frequency emitters. AIAA SciTech Conference, AIAA 2025-2322. 
+https://doi.org/10.2514/6.2025-2322
+
+5. Tsiganis, K., Varvoglis, H., & Morbidelli, A. (2022). Orbital stability analysis and photometric characterization of the Earth trojan 2020 XL5. Astronomy & Astrophysics, 649, A112. 
+https://doi.org/10.1051/0004-6361/202140593
+
+6. Consensus Academic Search. (2024). Elliptical orbits in astronomy: Key concepts and historical foundations. Research Analysis Report. Retrieved from 
+https://consensus.app/questions/elliptical-orbits-in-astronomy/
+
+7. Zheng, J. (2021). Vector Laplacian in spherical coordinates. arXiv preprint, arXiv:2503.17420. 
+https://doi.org/10.48550/arXiv.2503.17420
+
+8. University of Illinois. (2024). Spherical coordinates - Dynamics. Engineering Dynamics Reference. Retrieved from 
+https://dynref.engr.illinois.edu/rvs.html
+
+9. Pennsylvania State University. (2024). Spherical coordinates. Meteorology Course Materials. Retrieved from 
+http://www.meteo.psu.edu/holocene/public_html/Mann/courses/METEO470SPR17/Readings/spherical-tutorial.pdf
+
+10. Academia.edu. (2016). Grad, div and curl in cylindrical and spherical coordinates. Vector Analysis Applications. Retrieved from 
+https://www.academia.edu/28709621/Grad_Div_and_Curl_in_Cylindrical_and_Spherical_Coordinates
+
+11. Fiveable. (2024). Parametrized curves - Metric differential geometry study guide. Educational Resources. Retrieved from 
+https://fiveable.me/metric-differential-geometry/unit-2/parametrized-curves/study-guide/bUcLCFCYRy6AC8FZ
+
+12. Wikipedia. (2024). Curvature. Mathematical Encyclopedia. Retrieved from 
+https://en.wikipedia.org/wiki/Curvature
+
+13. Universidad Politécnica de Madrid. (2024). Curves and surfaces program. Differential Geometry Course. Retrieved from 
+https://dma.aq.upm.es/profesor/rueda_s/srueda_archivos/CurvSup/program.pdf
+
+14. Python Coding Book. (2021, September 28). Simulating orbiting planets in a solar system using Python. The Python Coding Book. Retrieved from 
+https://thepythoncodingbook.com/2021/09/29/simulating-orbiting-planets-in-a-solar-system-using-python-orbiting-planets-series-1/
+
+15. Moeller, D., Brown, P., & Wiegert, P. (2021). Kete: High-performance asteroid and comet orbital propagation and photometric modeling. arXiv preprint, arXiv:2509.04666. 
+https://doi.org/10.48550/arXiv.2509.04666
+
+16. International Journal of Research Publication and Reviews. (2025). A review of machine learning techniques for asteroid and space debris trajectory analysis. IJRPR, 6(1), 4756-4764. Retrieved from 
+https://ijrpr.com/uploads/V6ISSUE1/IJRPR38143.pdf
+
+17. Paul's Online Math Notes. (2022). Spherical coordinates. Calculus III Tutorial. Retrieved from 
+https://tutorial.math.lamar.edu/classes/calciii/SphericalCoords.aspx
+
+18. Mathematics LibreTexts. (2025). Cylindrical and spherical coordinates. Vector Calculus Resources. Retrieved from 
+https://math.libretexts.org/Bookshelves/Calculus/Calculus_(OpenStax)/12:_Vectors_in_Space/12.07:_Cylindrical_and_Spherical_Coordinates
+
+19. University of Babylon. (2024). Coordinate systems and transformation. Engineering Mathematics. Retrieved from 
+https://www.uobabylon.edu.iq/eprints/paper_11_24775_76.pdf
+
+20. SpaceDyS. (2024, September 30). Asteroids dynamics. Space Surveillance and Tracking. Retrieved from 
+https://www.spacedys.com/asteroids-dynamics/
+
+21. NASA Center for Near-Earth Object Studies. (2025, May 28). Spotlight on data: Center for Near-Earth Object Studies. NASA Science Data. Retrieved from 
+http://science.data.nasa.gov/learn/blog/cneos-spotlight
+
+22. Space Generation Advisory Council. (2024, November 2). Near Earth Object Project Group. Planetary Defense Initiative. Retrieved from 
+https://spacegeneration.org/projects/near-earth-object
+
+23. YouTube Educational. (2024, February 24). Mathematical model & equations of motion for simple harmonic motion. Physics Education. Retrieved from 
+https://www.youtube.com/watch?v=q4HbA7bHF3M
+
+24. Academic Publications. (2024). Oscillations: Swings and vibrations from a mathematical viewpoint. Mathematical Physics. Retrieved from 
+https://academic.mseri.me/static/oscillations.pdf
+
+25. ScienceDirect. (2020). Theoretical and numerical analysis of regular one-side oscillations. Mechanical Systems and Signal Processing, 147, 107098. 
+https://doi.org/10.1016/j.ymssp.2020.107098
+
+26. Recent Trends in Celestial Mechanics. (2024). Advances in astronomy special issue. Hindawi Journals. Retrieved from 
+https://onlinelibrary.wiley.com/doi/toc/10.1155/5081.si.628674
+
+27. Oks, E. (2021). Precession of the orbit of a planet around stars revolving along low-eccentricity orbits in a binary system: Analytical solution. New Astronomy, 86, 101573. 
+https://doi.org/10.1016/j.newast.2021.101573
+
+28. Nature Scientific Reports. (2024). Dynamics around small irregularly shaped objects modeled as a complex rotating dipole. Scientific Reports, 14, 11764. 
+https://doi.org/10.1038/s41598-024-61821-w
